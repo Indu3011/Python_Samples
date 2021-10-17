@@ -1,0 +1,29 @@
+What Does Operational Business Intelligence (OBI) Mean?
+Operational business intelligence (OBI or operational BI) is the process of reviewing and evaluating operational business processes, activities and data for the purpose of making tactical, strategic business decisions.
+
+OBI allows businesses to quickly react to dynamic and continuously changing business and customer requirements.
+
+Operational business intelligence is also known simply as operational intelligence (OI).
+
+
+
+OBI works on continuously occurring business events and processes and is typically implemented in scenarios requiring business insight on a daily, short-term or frequent basis. This is applicable to operational business applications, systems and storage resources that have the most current business data, events and processes. It monitors data driven business processes and events - in motion and at rest.
+
+OBI is often correlated with real-time business intelligence (RTBI), but they differ slightly, in terms of actual process and deployment. OBI works on fresher data/events than standard BI software but has staler data/events than RTBI software.
+
+
+
+
+Operational intelligence uses and examples
+Stock trading and other types of investment management are prime candidates for operational intelligence initiatives because of the need to monitor huge volumes of data in real time and respond rapidly to events and market trends. Customer analytics is another area that's ripe for OI. For example, online marketers use real-time tools to analyze internet clickstream data, so they can better target marketing campaigns to consumers. And cable TV companies track data from set-top boxes in real time to analyze the viewing activities of customers and how the boxes are functioning. 
+
+The growth of the internet of things has sparked operational intelligence applications for analyzing sensor data being captured from manufacturing machines, pipelines, elevators and other equipment; that enables predictive maintenance efforts designed to detect potential equipment failures before they occur. Other types of machine data also fuel OI applications, including server, network and website logs that are analyzed in real time to look for security threats and IT operations issues.
+
+There are less grandiose operational intelligence use cases, as well. That includes the likes of call-center applications that provide operators with up-to-date customer records and recommend promotional offers while they're on the phone with customers, as well as logistics ones that help calculate the most efficient driving routes for fleets of delivery vehicles.
+
+
+
+
+
+
+Operational intelligence systems let business managers and front-line workers see what's currently happening in operational processes and then immediately act upon the findings, either on their own or through automated means. The purpose is not to facilitate planning, but to drive operational decisions and actions in the moment.
